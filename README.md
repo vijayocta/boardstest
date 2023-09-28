@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/vijayocta0992/741507ca-f1c4-49fb-8052-2e04b7e8658e/1eff620f-e6b1-46cb-84dc-58392800e13d/_apis/work/boardbadge/5851f781-c37c-4bcc-9e10-37b28c6ce257)](https://dev.azure.com/vijayocta0992/741507ca-f1c4-49fb-8052-2e04b7e8658e/_boards/board/t/1eff620f-e6b1-46cb-84dc-58392800e13d/Microsoft.RequirementCategory)
 # boardstest
